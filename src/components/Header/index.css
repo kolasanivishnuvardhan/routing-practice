@@ -1,0 +1,33 @@
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.wave-logo {
+  width: 15%;
+}
+
+.logo-name {
+  font-family: 'Roboto';
+  padding-left: 4px;
+}
+
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.nav-elements-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-items {
+  font-family: 'Roboto';
+  padding: 0px 7px 0px 7px;
+  font-weight: 500;
+}
